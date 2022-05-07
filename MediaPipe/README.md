@@ -1,0 +1,1 @@
+# MediaPipe Implementation - Hand Recoginition, Facial Recoginition, Face Mesh Recoginition, Body Posture Recoginition.
